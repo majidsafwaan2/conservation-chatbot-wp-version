@@ -1,11 +1,3 @@
-# JK Community Farm Website
-
-A modern, responsive website for JK Community Farm - a 501(c)(3) nonprofit organization dedicated to providing fresh, organic produce to families in need.
-
-## 🌱 About
-
-JK Community Farm is a nonprofit organization that grows healthy food and gives it to people who need it. Our mission is to provide fresh, organic produce to families in need throughout the Washington, D.C. metropolitan area.
-
 ## ✨ Features
 
 - **Modern Design**: Clean, professional design with a focus on accessibility and user experience
